@@ -1,3 +1,5 @@
+#삭제기능 만들었음#
+
 class filedata:
     def __init__(self, name, locate, date, owner, price):
         self.name = name
@@ -79,4 +81,3 @@ def print_data_2(data_list):
 
 if __name__ == "__main__":
     run()
-    
