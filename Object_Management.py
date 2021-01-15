@@ -1,4 +1,4 @@
-#삭제기능 만들었음#
+#기능추가#
 
 class filedata:
     def __init__(self, name, locate, date, owner, price):
